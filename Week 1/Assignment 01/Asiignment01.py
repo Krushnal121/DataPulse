@@ -1,3 +1,11 @@
+# Assignment 01
+
+# Name: Krushnal Jagannath Patil
+# Student Id: CT_S_PCCOER_DATA_SCIENCE_196
+# Contact No: 9096945134
+# Email ID: krushnalpatil1111@gmail.com
+# Internship Repository: https://github.com/Krushnal121/DataPulse.git
+
 # 01. Right Half Pyramid
 print("Right Half Pyramid:\n")
 [print(i*'*') for i in range(1,6)]
