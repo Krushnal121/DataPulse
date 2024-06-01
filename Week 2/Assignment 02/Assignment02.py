@@ -1,3 +1,11 @@
+# Assignment 02
+
+# Name: Krushnal Jagannath Patil
+# Student Id: CT_S_PCCOER_DATA_SCIENCE_196
+# Contact No: 9096945134
+# Email ID: krushnalpatil1111@gmail.com
+# Internship Repository: https://github.com/Krushnal121/DataPulse.git
+
 import tkinter as tk
 
 LARGE_FONT_STYLE = ("Poppins", 40, "bold")
