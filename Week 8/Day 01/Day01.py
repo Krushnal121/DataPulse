@@ -1,3 +1,4 @@
+# K-Means Clustering
 import numpy as np
 from sklearn.cluster import KMeans
 import matplotlib.pyplot as plt
@@ -15,6 +16,7 @@ plt.scatter(kmeans.cluster_centers_[:, 0], kmeans.cluster_centers_[:, 1], s=300,
 plt.title("K-Means Clustering")
 plt.show()
 
+# Hierarchical Clustering
 from scipy.cluster.hierarchy import dendrogram, linkage
 from matplotlib import pyplot as plt
 
@@ -34,6 +36,7 @@ dendrogram(linked,
 plt.title("Hierarchical Clustering")
 plt.show()
 
+# DBSCAN
 from sklearn.cluster import DBSCAN
 import numpy as np
 import matplotlib.pyplot as plt
