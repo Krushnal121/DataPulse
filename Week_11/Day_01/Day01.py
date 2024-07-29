@@ -1,8 +1,8 @@
 # Install required libraries
-!pip install azure-cognitiveservices-vision-customvision
+#!pip install azure-cognitiveservices-vision-customvision
 
-from azure.cognitiveservices.vision.customvision.prediction import CustomVisionPredictionClient
-from msrest.authentication import ApiKeyCredentials
+#from azure.cognitiveservices.vision.customvision.prediction import CustomVisionPredictionClient
+#from msrest.authentication import ApiKeyCredentials
 
 # Set up Custom Vision credentials
 ENDPOINT = "https://<your-endpoint>.cognitiveservices.azure.com/"
@@ -23,7 +23,7 @@ for prediction in results.predictions:
 
 
 # Install required libraries
-!pip install opencv-python
+#!pip install opencv-python
 
 import cv2
 import matplotlib.pyplot as plt
