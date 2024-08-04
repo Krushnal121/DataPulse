@@ -66,11 +66,11 @@ The Simpsons image dataset includes images of various characters from "The Simps
 2. Upload test images and check the predicted labels.
 
 ### Output Screenshots
-![Screenshot 2024-08-04 144314.png](Screenshot%202024-08-04%20144314.png)
-![Screenshot 2024-08-04 143341.png](Screenshot%202024-08-04%20143341.png)
-![Screenshot 2024-08-04 143502.png](Screenshot%202024-08-04%20143502.png)
-![Screenshot 2024-08-04 143553.png](Screenshot%202024-08-04%20143553.png)
-![Screenshot 2024-08-04 143653.png](Screenshot%202024-08-04%20143653.png)
+![Model Performance Stats](Screenshot%202024-08-04%20144314.png)
+![Output 01](Screenshot%202024-08-04%20143341.png)
+![Output 02](Screenshot%202024-08-04%20143502.png)
+![Output 03](Screenshot%202024-08-04%20143553.png)
+![Output 04](Screenshot%202024-08-04%20143653.png)
 
 ## 3. Python Script for Image Histogram Analysis
 
