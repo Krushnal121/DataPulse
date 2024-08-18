@@ -17,6 +17,7 @@ def predict():
     species = {0: "Iris-setosa", 1: "Iris-versicolor", 2: "Iris-virginica"}
     # Make prediction
     prediction = model.predict(features)
+    print(prediction)
     return jsonify({'prediction':species[prediction[0]]})
 
 
